@@ -20,7 +20,7 @@ If you like a more inspiring and neutral theme, check out my [Golden Topaz](http
 ![](https://forum.obsidian.md/uploads/default/optimized/2X/6/69accdb8679b366856edba2158737bc972a2a9a7_2_1035x582.png) 
 ![](https://forum.obsidian.md/uploads/default/optimized/2X/f/f07025ba985d22499e1c3f739cea14e1a3ce35a8_2_1035x582.png) 
 ![](https://forum.obsidian.md/uploads/default/optimized/2X/5/5433247280caeb60649a8a95f270b6eefe188b97_2_1035x582.png) 
-![](upload://lOubWSbB98WCWd9zuXRnm72jtrc.png) 
+![](https://forum.obsidian.md/uploads/default/optimized/2X/9/98e2a90280761ae93f9642fafc9e6f85b97786b2_2_1035x582.png) 
 
 
 PS: Is it just me or when using this theme long enough, You would become everybody's crush. Hope you enjoy it ;)
