@@ -5,7 +5,7 @@ This theme started out as a set of snippets on top of the [Blue Topaz](https://f
 If you like a more inspiring and neutral theme, check out my [Golden Topaz](https://forum.obsidian.md/t/golden-topaz-theme-of-sublime/18489). :smiling_face_with_three_hearts:
 
 ## Download
-[ Pink Topaz theme for Obsidian (github.com)](https://github.com/shaggyfeng/obsidian-Pink-topaz-theme)
+[ Pink Topaz theme for Obsidian ](https://github.com/shaggyfeng/obsidian-Pink-topaz-theme/blob/main/Pink%20Topaz.css)
 
 ## Change log
 	- 2021-05-18 
