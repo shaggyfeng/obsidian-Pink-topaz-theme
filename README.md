@@ -9,15 +9,13 @@ If you like a more inspiring and neutral theme, check out my [Golden Topaz](http
 
 ## Change log
 - 2021-05-20
-        - Added even more sublime graph view colours.
-        - Now pitures, tables and videos will be in the middle of the page, no 
-           longer on the left side.      
-        - Added even more sublime graph view colours.
-        - changed colours for focus mode when typing in edit mode
-        - text alignment and be adjusted by: Syntax: start | end | left | right | 
-           center | justify | match-parent
+	- Added even more sublime graph view colours.
+	- Now pitures, tables and videos will be in the middle of the page, no longer on the left side.      
+	- Added even more sublime graph view colours.
+	- changed colours for focus mode when typing in edit mode
+	- text alignment and be adjusted by: Syntax: start | end | left | right | center | justify | match-parent
 - 2021-05-19
-        - changed colours for indent-lines for better reading experience.   
+	- changed colours for indent-lines for better reading experience.   
 - 2021-05-18 
 	- added better colours for day planner timeline view when one day 
            has more than 10 tasks.
