@@ -1,9 +1,9 @@
 /*Pink Topaz for Obsidian  v0.12.3，is a modified version of the Blue Topaz. This modified theme was modified by Mouth On Cloud. Welcome to join our tencent QQ App's obsidian group chat: #774176839 */
 /*粉色托帕石是基于蓝色托帕石制作的魔改主题, 由嘴上云制作，欢迎到obsidian的qq群一起愉快折腾。群号：774176839  */
-/*version: 0.4  */
-/*版本：0.4  */
-/*date: 2021-05-18  */
-/*日期：2021-05-18  */
+/*version: 0.6  */
+/*版本：0.6  */
+/*date: 2021-05-20  */
+/*日期：2021-05-20  */
 /*The following codes are from the Blue Topaz.    */
 /*下面的是蓝色托帕石的原版部分。  */
 /*蓝色托帕石，适合Obsidian v0.12.2。[20210506] flying fly flies制作，欢迎使用及分享，借鉴（copy）了许多主题，在此一一感谢。如果喜欢，可以在Github里给我星星 https://github.com/whyt-byte */
@@ -2673,11 +2673,11 @@ span.cm-formatting-task {
 
 /*if you want the highlight to present in both normal and insert mode of vim*/
 .theme-light .CodeMirror-activeline .CodeMirror-linebackground {
-  background-color: #468eeb33 !important;
+  background-color: #f5a7a22f !important;
 }
 
 .theme-dark .CodeMirror-activeline .CodeMirror-linebackground {
-  background-color: #509cff2f !important;
+  background-color: #f39ba073 !important;
 }
 
 /*----file explorer smaller fonts & line height----*/
@@ -5014,8 +5014,8 @@ img[alt$="inlR"] {
 }
 /*The following codes belong to the Pink Topaz, which includes all the modifications. This modified theme was modified by Mouth On Cloud. Welcome to join our tencent QQ App's obsidian group chat: #774176839   */
 /*下面的是粉色托帕石的魔改部分，也是和原版蓝色托帕石的全部不同部分。[20210518] 嘴上云制作，欢迎到obsidian的qq群找俺一起折腾。群号：774176839  */
-/*version: 0.4  */
-/*版本：0.4  */
+/*version: 0.6  */
+/*版本：0.6  */
 .theme-light {
     --background-primary: #efe9d9;
     --background-primary-alt: #ffdece;
@@ -5102,7 +5102,7 @@ img[alt$="inlR"] {
     --graphtag: #ffdece;
     --graph-attach: #f5a7a2;
     --graph-circle: #FD355C;
-    --graph-line: #37291a;
+    --graph-line: #fea2c2;
     --graph-unresolved: #E87659;
     --graph-arrow: #980000;
     --mermaid-active-task-color: #f5a7a2;
@@ -5243,9 +5243,9 @@ img[alt$="inlR"] {
     --graphtag: #f39ba0;
     --graph-attach: #ffebec;
     --graph-circle: #f39ba0;
-    --graph-line: #f2f6fc;
+    --graph-line: #ffc3bc;
     --graph-unresolved: #ffccbc;
-    --graph-arrow: #f2f6fc;
+    --graph-arrow: #ffc3bc;
     --mermaid-active-task-color: #F39BA4;
     --mermaid-seq-dia-color: #ffebec;
     --table-background-color: #212121;
@@ -5307,3 +5307,43 @@ img[alt$="inlR"] {
 .outline .tree-item-children:hover {
   border-left-color: #f39ba0;
 }
+.cm-s-obsidian,
+.markdown-preview-view {
+    text-align: justify;
+    hyphens: auto;
+}
+
+/*
+text-align 属性
+规定元素中的文本的水平对齐方式。
+该属性通过指定行框与哪个点对齐，从而设置块级元素内文本的水平对齐方式。通过允许用户代理调整行内容中字母和字之间的间隔，可以支持值 justify；不同用户代理可能会得到不同的结果。
+
+Syntax: start | end | left | right | center | justify | match-parent
+语法： 开始|结束|左对齐|右对齐|居中对齐|两端对齐|匹配-父级
+
+
+hyphens 属性
+定义是否允许在一行文本中使用连字符实现更多的自动换行机会。 
+
+Syntax: none | manual | auto
+语法：不打断单词|仅当换行符时换行|按建议换行
+
+
+以上内容参考自 https://developer.mozilla.org/zh-CN/docs/Web/CSS
+整理：蚕子 QQ：312815311
+*/
+.markdown-preview-view img, .markdown-preview-view video {
+    max-width: min(100%,800px) !important;
+    margin-left: auto;
+    margin-right: auto;
+    display: table-cell;
+    outline: 0px solid var(--text-accent);
+  }
+  .markdown-preview-view table {
+	border-collapse: collapse;
+	margin:auto;
+	margin-bottom: 20px;
+}
+.graph-view.color-line-highlight {
+  color: #fea2c2;
+} 
