@@ -21,6 +21,7 @@ If you like a more inspiring and neutral theme, check out my [Golden Topaz](http
            has more than 10 tasks.
 		
 ## Screenshots
+![](https://github.com/shaggyfeng/obsidian-Pink-topaz-theme/blob/main/Pink%20Topaz.gif)
 Please check out ![Pink Topaz here in Obsidian forum](https://forum.obsidian.md/t/pink-topaz-theme-for-flowers-and-sweetness/18451) to see screenshots from the newiest version.
 The following screenshots are from version: 0.4.0
 ![](https://forum.obsidian.md/uploads/default/optimized/2X/a/ad3da3bf3c08d6ca4928f0a99f60e403de4f89fb_2_1035x582.png) 
