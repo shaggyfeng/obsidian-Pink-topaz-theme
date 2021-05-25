@@ -38,7 +38,6 @@ If you like a more inspiring and neutral theme, check out my [Golden Topaz](http
 ![屏幕截图(116)](https://user-images.githubusercontent.com/75353922/119454727-d8d19780-bd06-11eb-99fb-f80deafaf57d.png)
 ![屏幕截图(117)](https://user-images.githubusercontent.com/75353922/119454738-db33f180-bd06-11eb-8006-326f592a8720.png)
 ![屏幕截图(123)](https://user-images.githubusercontent.com/75353922/119456922-23541380-bd09-11eb-99a4-3bace40a936a.png)
-
 ![屏幕截图(124)](https://user-images.githubusercontent.com/75353922/119456574-cc4e3e80-bd08-11eb-839b-8e0a1901511f.png)
 
 #### Wherever you edit, a pink field will help you focus(the line above "- asga" is highlighted in light pink)
