@@ -29,6 +29,8 @@ If you like a more inspiring and neutral theme, check out my [Golden Topaz](http
 ![屏幕截图(115)](https://user-images.githubusercontent.com/75353922/119453598-9a87a880-bd05-11eb-98a4-da493998ecce.png)
 ![屏幕截图(116)](https://user-images.githubusercontent.com/75353922/119454727-d8d19780-bd06-11eb-99fb-f80deafaf57d.png)
 ![屏幕截图(117)](https://user-images.githubusercontent.com/75353922/119454738-db33f180-bd06-11eb-8006-326f592a8720.png)
+![屏幕截图(123)](https://user-images.githubusercontent.com/75353922/119456922-23541380-bd09-11eb-99a4-3bace40a936a.png)
+
 ![屏幕截图(124)](https://user-images.githubusercontent.com/75353922/119456574-cc4e3e80-bd08-11eb-839b-8e0a1901511f.png)
 
 #### Wherever you edit, a pink field will help you focus(the line above "- asga" is highlighted in light pink)
@@ -44,10 +46,9 @@ If you like a more inspiring and neutral theme, check out my [Golden Topaz](http
 #### Dark mode has all the features, just sexier
 ![屏幕截图(122)](https://user-images.githubusercontent.com/75353922/119456485-b5a7e780-bd08-11eb-971a-c222c166f219.png)
 ![屏幕截图(130)](https://user-images.githubusercontent.com/75353922/119456678-eab43a00-bd08-11eb-8e77-18e863a555f0.png)
-
-
-
-
+![屏幕截图(129)](https://user-images.githubusercontent.com/75353922/119457134-58606600-bd09-11eb-8b0f-7c233b86788f.png)
+![屏幕截图(125)](https://user-images.githubusercontent.com/75353922/119457230-7332da80-bd09-11eb-8290-6bc41306b5ca.png)
+![屏幕截图(113)](https://user-images.githubusercontent.com/75353922/119457244-77f78e80-bd09-11eb-97e5-819f57cc2d17.png)
 
 PS: Is it just me or when using this theme long enough, You would become everybody's crush. Hope you enjoy it ;)
 
