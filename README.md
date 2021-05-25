@@ -8,6 +8,14 @@ If you like a more inspiring and neutral theme, check out my [Golden Topaz](http
 [ Pink Topaz theme for Obsidian ](https://github.com/shaggyfeng/obsidian-Pink-topaz-theme/files/6518969/Pink.Topaz.zip)
 
 ## Change log
+- 2021-05-25
+	- Improved all 13 core coding syntax colours
+	- Improved some tag colours
+- 2021-05-24
+	- Added 20 major coding languages syntax highlighting colours.
+- 2021-05-23
+	- Improved graph hover effects.
+	- Improved outline hover effects
 - 2021-05-20
 	- Added even more sublime graph view colours.
 	- Now pitures, tables and videos will be in the middle of the page, no longer on the left side.      
