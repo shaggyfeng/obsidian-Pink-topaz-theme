@@ -21,7 +21,16 @@ If you like a more inspiring and neutral theme, check out my [Golden Topaz](http
            has more than 10 tasks.
 		
 ## Features & Screenshots
-![Aesthetic matters! This is the first all-pink obsidian theme.](https://user-images.githubusercontent.com/75353922/119451555-6612ed00-bd03-11eb-86bb-a9fe41b9cd10.png)
+#### Aesthetic matters! This is the first all-pink obsidian theme.
+![](https://user-images.githubusercontent.com/75353922/119451555-6612ed00-bd03-11eb-86bb-a9fe41b9cd10.png)
+![屏幕截图(114)](https://user-images.githubusercontent.com/75353922/119453547-88a60580-bd05-11eb-94fe-e5388d17c5d2.png)
+
+#### 
+![屏幕截图(115)](https://user-images.githubusercontent.com/75353922/119453598-9a87a880-bd05-11eb-98a4-da493998ecce.png)
+
+
+
+
 
 
 PS: Is it just me or when using this theme long enough, You would become everybody's crush. Hope you enjoy it ;)
