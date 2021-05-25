@@ -20,19 +20,9 @@ If you like a more inspiring and neutral theme, check out my [Golden Topaz](http
 	- added better colours for day planner timeline view when one day 
            has more than 10 tasks.
 		
-## Screenshots
-![](https://github.com/shaggyfeng/obsidian-Pink-topaz-theme/blob/main/Pink%20Topaz.gif)
-Please check out [Pink Topaz here in Obsidian forum](https://forum.obsidian.md/t/pink-topaz-theme-for-flowers-and-sweetness/18451) to see screenshots from the newiest version.
-The following screenshots are from version: 0.4.0
-![](https://forum.obsidian.md/uploads/default/optimized/2X/a/ad3da3bf3c08d6ca4928f0a99f60e403de4f89fb_2_1035x582.png) 
-![](https://forum.obsidian.md/uploads/default/optimized/2X/e/e1528347a781d3bc1420b9d058f81d521b9000fc_2_1035x582.png) 
-![](https://forum.obsidian.md/uploads/default/optimized/2X/e/e713b241f3fb90c9b69ddaeb3be3564daa5f8d3e_2_1035x582.png) 
-![](https://forum.obsidian.md/uploads/default/optimized/2X/b/b58e98c70900b8249d15810beb8ec73cb4982b78_2_1035x582.png) 
-![](https://forum.obsidian.md/uploads/default/optimized/2X/8/84500a30909d2e977fafbebd3642f0517cdd43c2_2_1035x582.png) 
-![](https://forum.obsidian.md/uploads/default/optimized/2X/6/69accdb8679b366856edba2158737bc972a2a9a7_2_1035x582.png) 
-![](https://forum.obsidian.md/uploads/default/optimized/2X/f/f07025ba985d22499e1c3f739cea14e1a3ce35a8_2_1035x582.png) 
-![](https://forum.obsidian.md/uploads/default/optimized/2X/5/5433247280caeb60649a8a95f270b6eefe188b97_2_1035x582.png) 
-![](https://forum.obsidian.md/uploads/default/optimized/2X/9/98e2a90280761ae93f9642fafc9e6f85b97786b2_2_1035x582.png) 
+## Features & Screenshots
+![Aesthetic matters! This is the first all-pink obsidian theme.](https://user-images.githubusercontent.com/75353922/119451555-6612ed00-bd03-11eb-86bb-a9fe41b9cd10.png)
 
 
 PS: Is it just me or when using this theme long enough, You would become everybody's crush. Hope you enjoy it ;)
+
