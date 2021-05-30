@@ -7,6 +7,8 @@ If you like a more inspiring and neutral theme, check out my [Golden Topaz](http
 ## Download
 [ Pink Topaz theme for Obsidian ](https://github.com/shaggyfeng/obsidian-Pink-topaz-theme/files/6537421/Pink.Topaz.zip)
 
+You'll be able to find this theme in the Obsidian's community themes browser under Settings > Appearance > Themes.
+
 ## Change log
 - 2021-05-25
 	- Improved all 13 core coding syntax colours
