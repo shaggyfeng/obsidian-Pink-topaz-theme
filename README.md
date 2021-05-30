@@ -5,11 +5,13 @@ This theme started out as a set of snippets on top of the [Blue Topaz](https://f
 If you like a more inspiring and neutral theme, check out my [Golden Topaz](https://forum.obsidian.md/t/golden-topaz-theme-of-sublime/18489). :smiling_face_with_three_hearts:
 
 ## Download
-[ Pink Topaz theme for Obsidian ](https://github.com/shaggyfeng/obsidian-Pink-topaz-theme/files/6537421/Pink.Topaz.zip)
+[ Pink Topaz theme for Obsidian ](https://github.com/shaggyfeng/obsidian-Pink-topaz-theme/releases/download/1.0.1/Pink.Topaz.zip)
 
-You'll be able to find this theme in the Obsidian's community themes browser under Settings > Appearance > Themes.
+You can find this theme in the Obsidian's community themes browser under Settings > Appearance > Themes.
 
 ## Change log
+- 2021-05-30
+	- Fixed colours for mermaid chart
 - 2021-05-25
 	- Improved all 13 core coding syntax colours
 	- Improved some tag colours
