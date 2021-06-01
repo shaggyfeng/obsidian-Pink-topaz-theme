@@ -5499,3 +5499,6 @@ pre[class*='language-txt']:before {
 .theme-dark .cm-s-obsidian pre.HyperMD-codeblock .cm-number {
     color: #b49fc6;
 }
+.theme-dark .cm-s-obsidian span.cm-hmd-frontmatter.cm-variable-3, .theme-dark .cm-s-obsidian span.cm-math.cm-variable-3, .theme-dark .cm-s-obsidian pre.HyperMD-codeblock span.cm-variable-3 {
+    color: #ae6ce7;
+}
