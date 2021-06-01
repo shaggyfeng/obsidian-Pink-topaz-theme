@@ -5493,7 +5493,7 @@ pre[class*='language-txt']:before {
 }
 /*嘴上云又改的深色主题代码注释色*/
 .theme-dark .cm-s-obsidian pre.HyperMD-codeblock .cm-comment {
-    color: #e5c7a78a
+    color: #e5c7a78a;
 }
 
 .theme-dark .cm-s-obsidian pre.HyperMD-codeblock .cm-number {
