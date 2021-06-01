@@ -5184,7 +5184,7 @@ img[alt$="inlR"] {
     --text-error: #f93759;
     --text-error-hover: #f93759;
     --text-highlight-bg: #f39ba0;
-    --text-selection: #e5c7a9;
+    --text-selection:#e5c7a94a;
     --text-on-accent: #ffffff;
     --interactive-normal: #f39ba0;
     --interactive-hover: #ffccbc;
@@ -5253,9 +5253,9 @@ img[alt$="inlR"] {
     --table-background-color: #212121;
     --table-background-color-odd: transparent;
     --table-border-color: #ffebec;
-    --table-thead-background-color: #f39ba0;
+    --table-thead-background-color: #f39ba0ad;
     --table-hover-raw-color: #292929;
-    --table-hover-color: #ffccbc;
+    --table-hover-color: #ffccbc0a;
     --table-hover-thead-color: #f39ba0;
     --calendar-week-color: #ffccbc;
     --calendar-week-hover: #f39ba0;
@@ -5490,4 +5490,7 @@ pre[class*='language-txt']:before {
 .theme-dark .comment, .theme-light .comment {
     font-size: 0.9em !important;
     font-weight: 450;
+}
+.theme-dark .cm-s-obsidian .cm-hmd-frontmatter.cm-comment, .theme-dark .cm-s-obsidian .cm-math.cm-comment, .theme-dark .cm-s-obsidian pre.HyperMD-codeblock .cm-comment {
+    color: #e5c7a9;
 }
