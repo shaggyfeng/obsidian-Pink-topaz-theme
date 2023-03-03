@@ -736,7 +736,7 @@ to get a right-side note block
   font-family: var(--font-family-special-tag);
   font-weight: 600;
 }
-.tag[href^="#进行中] {
+.tag[href^="#进行中"] {
   background-color: var(--stag2) !important;
   font-weight: 600;
   font-family: Wingdings, Microsoft YaHei;
