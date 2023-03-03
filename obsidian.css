@@ -736,7 +736,7 @@ to get a right-side note block
   font-family: var(--font-family-special-tag);
   font-weight: 600;
 }
-.tag[href^="#进行中"] {
+.tag[href^="#進行中"] {
   background-color: var(--stag2) !important;
   font-weight: 600;
   font-family: Wingdings, Microsoft YaHei;
@@ -1752,7 +1752,7 @@ span.cm-strong, strong {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-color: #f55454;
-  background-image: linear-gradient(270deg, #40b3ff 0%, #0065b8 80%) !important;
+  background-image: linear-gradient(270deg, #f5ff40 0%, #44d365 100%) !important;
 }
 
 span.cm-formatting.cm-formatting-strong.cm-strong {
@@ -1986,6 +1986,7 @@ a.external-link {
   text-shadow: none;
 }
 
+/*
 .theme-light code[class*="language-"], 
 .theme-light pre[class*="language-"] {
   color: #000000;
@@ -1995,6 +1996,7 @@ a.external-link {
 .theme-dark pre[class*="language-"] {
   color: #e7e7e7;
 }
+*/
 
 /*绑定页面
 body.is-hovering-clickable, body.is-hovering-clickable{
@@ -2722,16 +2724,27 @@ span.cm-formatting-task {
 /*---- nav arrows adjust location ----*/
 .nav-folder-collapse-indicator {
   position: absolute;
-  left: 21px;
-  top: 3px;
+  left: 6px;
+  top: 7px;
   transition: transform 20ms linear 0s;
 }
 
 .nav-folder-collapse-indicator::after {
   position: absolute;
   content : "↓";
-  left: -3px;
-  top: 0px;
+  left: 1px;
+  top: 8px;
+  font-size: 15px;
+  font-weight: bold;
+  color: var(--text-accent);
+  transition: transform 10ms linear 0s;
+}
+
+.nav-folder-collapse-indicator {
+  position: absolute;
+  content : "→";
+  left: 4px;
+  top: -10px;
   font-size: 15px;
   font-weight: bold;
   color: var(--text-accent);
@@ -5455,8 +5468,8 @@ pre[class*='language-txt']:before {
 }
 
 .theme-light code[class*="language-"],
-.theme-light pre[class*="language-"] {
-    color: #37291a !important;
+.theme-light pre {
+    color: #37291a;/* !important;*/
     text-shadow: none;
     font-family: var(--mono-font), var(--cjk-font);
 }
